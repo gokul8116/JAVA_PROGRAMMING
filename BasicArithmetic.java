@@ -1,4 +1,4 @@
-
+// Basic Aritmetic program
 public class BasicArithmetic {
 
     // Main method - Entry point of the program
